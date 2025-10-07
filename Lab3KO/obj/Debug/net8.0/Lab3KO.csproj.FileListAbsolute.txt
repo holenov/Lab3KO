@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Lab3KO\bin\Debug\net8.0\Lab3KO.exe
+C:\Users\Acer\source\repos\Lab3KO\bin\Debug\net8.0\Lab3KO.deps.json
+C:\Users\Acer\source\repos\Lab3KO\bin\Debug\net8.0\Lab3KO.runtimeconfig.json
+C:\Users\Acer\source\repos\Lab3KO\bin\Debug\net8.0\Lab3KO.dll
+C:\Users\Acer\source\repos\Lab3KO\bin\Debug\net8.0\Lab3KO.pdb
+C:\Users\Acer\source\repos\Lab3KO\obj\Debug\net8.0\Lab3KO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Lab3KO\obj\Debug\net8.0\Lab3KO.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Lab3KO\obj\Debug\net8.0\Lab3KO.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Lab3KO\obj\Debug\net8.0\Lab3KO.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Lab3KO\obj\Debug\net8.0\Lab3KO.dll
+C:\Users\Acer\source\repos\Lab3KO\obj\Debug\net8.0\refint\Lab3KO.dll
+C:\Users\Acer\source\repos\Lab3KO\obj\Debug\net8.0\Lab3KO.pdb
+C:\Users\Acer\source\repos\Lab3KO\obj\Debug\net8.0\Lab3KO.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Lab3KO\obj\Debug\net8.0\ref\Lab3KO.dll
