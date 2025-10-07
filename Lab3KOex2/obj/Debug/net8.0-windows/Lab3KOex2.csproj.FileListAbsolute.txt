@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\Lab3KOex2\obj\Debug\net8.0-windows\Lab3KOex2.frmMass.resources
+C:\Users\Acer\source\repos\Lab3KOex2\obj\Debug\net8.0-windows\Lab3KOex2.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Lab3KOex2\obj\Debug\net8.0-windows\Lab3KOex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Lab3KOex2\obj\Debug\net8.0-windows\Lab3KOex2.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Lab3KOex2\obj\Debug\net8.0-windows\Lab3KOex2.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Lab3KOex2\obj\Debug\net8.0-windows\Lab3KOex2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Lab3KOex2\bin\Debug\net8.0-windows\Lab3KOex2.exe
+C:\Users\Acer\source\repos\Lab3KOex2\bin\Debug\net8.0-windows\Lab3KOex2.deps.json
+C:\Users\Acer\source\repos\Lab3KOex2\bin\Debug\net8.0-windows\Lab3KOex2.runtimeconfig.json
+C:\Users\Acer\source\repos\Lab3KOex2\bin\Debug\net8.0-windows\Lab3KOex2.dll
+C:\Users\Acer\source\repos\Lab3KOex2\bin\Debug\net8.0-windows\Lab3KOex2.pdb
+C:\Users\Acer\source\repos\Lab3KOex2\obj\Debug\net8.0-windows\Lab3KOex2.dll
+C:\Users\Acer\source\repos\Lab3KOex2\obj\Debug\net8.0-windows\refint\Lab3KOex2.dll
+C:\Users\Acer\source\repos\Lab3KOex2\obj\Debug\net8.0-windows\Lab3KOex2.pdb
+C:\Users\Acer\source\repos\Lab3KOex2\obj\Debug\net8.0-windows\Lab3KOex2.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Lab3KOex2\obj\Debug\net8.0-windows\ref\Lab3KOex2.dll
